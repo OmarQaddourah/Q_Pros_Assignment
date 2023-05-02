@@ -13,5 +13,5 @@ This README would normally document whatever steps are necessary to get your app
 * install intelliJ IDEA Community Edition.
 * install jdk(any version, up to 17).
 * set $JAVA_HOME in system environments.
-* open terminal and run mvn test.
+* open TestNG.xml file and run tests.
 * ### NOTE: you can use is-headless = true to run headless runs. ###
