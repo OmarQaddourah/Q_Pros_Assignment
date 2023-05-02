@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Demo Blaze Assignment">
+    <test name="Demo Blaze">
+        <!-- here we can run them as methods or we can run it as one class -->
+        <class name="tests.AssignmentTest">
+            <methods>
+                <include name="signup"/>
+                <include name="login"/>
+                <include name="checkCategoriesItems"/>
+                <include name="addItemToCart"/>
+                <include name="removeItemFromCart"/>
+                <include name="checkoutSuccessfully"/>
+            </methods>
+        </class>
+    </test>
+</suite>

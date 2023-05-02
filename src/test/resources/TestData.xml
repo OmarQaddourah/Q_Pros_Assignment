@@ -1,0 +1,14 @@
+<TestData>
+    <Signup>
+        <username>Automation User</username>
+        <signupMessage>Sign up successful</signupMessage>
+    </Signup>
+
+    <ItemPage>
+        <addItem>Product added</addItem>
+    </ItemPage>
+
+    <Checkout>
+        <successCheckout>Thank you for your purchase!</successCheckout>
+    </Checkout>
+</TestData>
